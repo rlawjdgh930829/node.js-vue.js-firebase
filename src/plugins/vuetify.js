@@ -19,6 +19,7 @@ Vue.use(Vuetify, {
     VIcon
   }
 })
+
 Vue.use(VuetifyToast, {
   x: 'right', // default
   y: 'bottom', // default
